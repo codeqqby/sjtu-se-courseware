@@ -15,6 +15,11 @@
 + [百度云下载](http://pan.baidu.com/s/1c0wO1Vi)
 + [微盘下载](http://vdisk.weibo.com/s/q7UZhHTvUSKPy)
 
+## 算法 ##
+
++ [百度云下载](http://pan.baidu.com/s/1kUaHCXL)
++ [微盘下载](http://vdisk.weibo.com/s/C-duqZfcgFSnN)
+
 ## ICS1 ##
 
 + [百度云下载](http://pan.baidu.com/s/1i3GXdcT)
@@ -30,6 +35,11 @@
 + [百度云下载](http://pan.baidu.com/s/1ntvkls9)
 + [微盘下载](http://vdisk.weibo.com/s/q82T3PIVmJaIt)
 
+## OS ##
+
++ [百度云下载](http://pan.baidu.com/s/1nugdqat)
++ [微盘下载](http://vdisk.weibo.com/s/C-duqZfcgFSxb)
+
 ## 可计算理论 ##
 
 + [百度云下载](http://pan.baidu.com/s/1ntMo93z)
@@ -44,6 +54,11 @@
 
 + [百度云下载](http://pan.baidu.com/s/1eQ8VAZw)
 + [微盘下载](http://vdisk.weibo.com/s/q7UZhHTvUSKIx)
+
+## 数据挖掘 ##
+
++ [百度云下载](http://pan.baidu.com/s/1gdNs9Gn)
++ [微盘下载](http://vdisk.weibo.com/s/C-duqZfcgFSnt)
 
 ## 软件工程 ##
 
@@ -69,3 +84,13 @@
 
 + [百度云下载](http://pan.baidu.com/s/1eQx0xF0)
 + [微盘下载](http://vdisk.weibo.com/s/q82T3PIVmJaIg)
+
+## 信息系统工程 ##
+
++ [百度云下载](http://pan.baidu.com/s/1gey6tO3)
++ [微盘下载](http://vdisk.weibo.com/s/C-duqZfcgFSob)
+
+## 信息系统分析与设计 ##
+
++ [百度云下载](http://pan.baidu.com/s/1hrcPE2S)
++ [微盘下载](http://vdisk.weibo.com/s/C-duqZfcgFSnJ)
